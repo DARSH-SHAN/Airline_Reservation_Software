@@ -1,0 +1,10 @@
+__________Airrow Airlines________
+_____________Ticket______________
+_________________________________
+Customer ID:123
+Customer Name:darshan
+Customer Gender:male
+	Description
+
+Destination		USA
+Flight cost : 		50000
